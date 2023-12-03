@@ -11,7 +11,7 @@
 
 ### Frontend Libraries
 - ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-- 
+
 ## Backend 
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
@@ -50,13 +50,13 @@
 
 ## ORM Information
 I also have experience using the following ORM (Object-Relational Mapping) frameworks:
--EntityFramework
--nHibernate
+- EntityFramework
+- nHibernate
 ## Architectures
 My experience with software architectures includes:
 - Clean Architecture
 - Onion Architecture
--Simple Architecture
+- Simple Architecture
 
 # Note: All other repos are deleted. continually
 
