@@ -1,32 +1,6 @@
 # 💫 About Me:
 ## FullStack .Net Developper | Backend .Net Developper
 ### I am Cuma KÖSE, a software developer and I specialize in the following technologies:
-- C#
-- NET
-- MVC
-- Web API
-- Angular
-- SQL (MSSQL, MySQL, PostgreSQL)
-- NoSQL (MongoDB, ElasticSearch)
-- Docker
-## ORM Information
-I also have experience using the following ORM (Object-Relational Mapping) frameworks:
--EntityFramework
--nHibernate
-## Architectures
-My experience with software architectures includes:
-- Clean Architecture
-- Onion Architecture
--Simple Architecture
-
-# Note: All other repos are deleted. continually
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkmvc/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@turkmvc) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackowerflow.com/TurkMvc) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@turkmvc) 
-
 # 💻 Tech Stack:
 ## Programming Language
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -66,7 +40,26 @@ My experience with software architectures includes:
 #API Actions
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 - ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-- 
+
+## ORM Information
+I also have experience using the following ORM (Object-Relational Mapping) frameworks:
+-EntityFramework
+-nHibernate
+## Architectures
+My experience with software architectures includes:
+- Clean Architecture
+- Onion Architecture
+-Simple Architecture
+
+# Note: All other repos are deleted. continually
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkmvc/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@turkmvc) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackowerflow.com/TurkMvc) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@turkmvc) 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=turkmvc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=turkmvc&theme=dark&hide_border=false)<br/>
