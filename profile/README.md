@@ -9,6 +9,7 @@
 - Angular
 - SQL (MSSQL, MySQL, PostgreSQL)
 - NoSQL (MongoDB, ElasticSearch)
+- Docker
 
 ## ORM Information
 I also have experience using the following ORM (Object-Relational Mapping) frameworks:
